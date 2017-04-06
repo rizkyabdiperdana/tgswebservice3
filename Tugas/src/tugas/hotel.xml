@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<hotel>
+<identitas>
+<nama img_src="dana.png">Rizky Abdi Perdana</nama>
+<no_identitas>1111649938847</no_identitas>
+<email>rizky@gmail.com</email>
+<alamat>Bandung</alamat>
+</identitas>
+
+<data_hotel>
+<nama_hotel img_src="hotel.png">Ini Hotel</nama_hotel>
+<alamat_hotel>Bandung</alamat_hotel>
+</data_hotel>
+
+<paket>
+<nama_paket>VVIP</nama_paket>
+<kamar>507</kamar>
+<durasi>2</durasi>
+</paket>
+
+<service>
+<nama_service>Spa</nama_service>
+<ruang>520</ruang>
+<lama>2</lama>
+</service>
+
+</hotel>
